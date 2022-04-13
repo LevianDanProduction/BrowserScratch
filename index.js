@@ -1,8 +1,3 @@
-const ArgumentType = require('../../extension-support/argument-type');
-const BlockType = require('../../extension-support/block-type');
-const formatMessage = require('format-message');
-
-//const DOMPurify  = require('dompurify');
 
 var rcmd = '';
 class brow {
